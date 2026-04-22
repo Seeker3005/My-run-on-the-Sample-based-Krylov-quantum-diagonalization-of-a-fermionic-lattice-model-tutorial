@@ -1,5 +1,5 @@
 # My-run-on-the-Sample-based-Krylov-quantum-diagonalization-of-a-fermionic-lattice-model-tutorial
-This is my run of the "Sample-based Krylov quantum diagonalization of a fermionic lattice model" tutorial provided by IBM Quantum Platform Tutorials.
+This is my run of the "Sample-based Krylov quantum diagonalization of a fermionic lattice model" tutorial provided by IBM Quantum Platform Tutorials. I mostly kept the notebook unchanged. In sample-based-krylov-quantum-diagonalization.html, you can see the outputs I obtained when running the code. 
 
 What I learned:
 1) How to use Sample-based Quantum Diagonalization (SQD) to estimate the ground state energy of a fermionic lattice model.
